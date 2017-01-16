@@ -1,4 +1,4 @@
-package com.spring.single;
+package com.springinaction.single;
 
 public class HelloWorldBean {
 	public String sayHello(){

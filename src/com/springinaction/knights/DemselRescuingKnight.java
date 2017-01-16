@@ -1,4 +1,4 @@
-package com.spring.knights;
+package com.springinaction.knights;
 
 public class DemselRescuingKnight implements Knight{
 	private RescueDemselQuest quest;
