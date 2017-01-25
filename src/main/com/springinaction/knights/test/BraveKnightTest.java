@@ -1,13 +1,13 @@
-package com.springinaction.knights.test;
+package main.com.springinaction.knights.test;
 
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
 
+import main.com.springinaction.knights.Quest;
 import org.junit.Test;
 
-import com.springinaction.knights.BraveKnight;
-import com.springinaction.knights.Quest;
+import main.com.springinaction.knights.BraveKnight;
 
 public class BraveKnightTest {
 	@Test
