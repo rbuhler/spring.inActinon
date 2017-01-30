@@ -2,10 +2,10 @@ package main.com.springinaction.knights;
 
 import java.io.PrintStream;
 
-public class Ministrel {
+public class Minstrel {
     private PrintStream stream;
 
-    public Ministrel(PrintStream stream){
+    public Minstrel(PrintStream stream){
         this.stream = stream;
 
     }
