@@ -23,11 +23,11 @@ public class CDPlayerTest {
     private MediaPlayer player;
 
     @Autowired
-    private CompactDisc cd;
+    private CompactDisc randomBeatlesCD;
 
     @Test
     public void cdShouldNotBeNull(){
-        assertNotNull(cd);
+        assertNotNull(randomBeatlesCD);
     }
 
     @Test
